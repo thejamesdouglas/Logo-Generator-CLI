@@ -17,6 +17,7 @@ Run node index.js to start the application.
 Follow the prompts to input the logo text (up to three characters), text color (color keyword or hexadecimal number), shape (circle, triangle, or square), and shape color (color keyword or hexadecimal number).
 After providing the required inputs, the application will generate a logo.svg file and print "Generated logo.svg" in the command line.
 Open the logo.svg file in a web browser to view the generated logo.
+
 Testing
 This application uses Jest for running unit tests. To run the tests, follow these steps:
 
